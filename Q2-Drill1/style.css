@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf2MG5NXEoWto5HNFbWm9c3oSeg8e1txOB1DDalaOokw&s=10);
+    background-size: cover;
+    height: 100%;
+}
+
+.container{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    border-radius: 100%;
+     background-color: rgb(243, 241, 239);
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 8px 8px 13px 0px rgba(5,4,4,0.75);
+         -webkit-box-shadow: 8px 8px 13px 0px rgba(5,4,4,0.75);
+        -moz-box-shadow: 8px 8px 13px 0px rgba(5,4,4,0.75);
+
+}
+
+
+.row{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    gap: 5px;
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
